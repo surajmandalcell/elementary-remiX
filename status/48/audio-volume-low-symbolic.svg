@@ -1,7 +1,19 @@
-<svg height='48' width='48' xmlns='http://www.w3.org/2000/svg'>
-    <g transform='translate(-393 71)'>
-        
-        <path color='#bebebe' d='M427.547-60.621l-2.305 1.69c2.46 3.344 3.942 7.457 3.942 11.927 0 4.444-1.458 8.542-3.89 11.877l2.304 1.69A22.976 22.976 0 0 0 432-47.005c0-5.095-1.656-9.798-4.453-13.617zm-5.121 3.736l-2.252 1.639a13.797 13.797 0 0 1 2.713 8.242c0 3.076-1.022 5.89-2.713 8.191l2.305 1.64c2.01-2.769 3.224-6.149 3.224-9.83 0-3.708-1.241-7.103-3.277-9.882z' fill='#666' opacity='.35' overflow='visible' style='marker:none'/>
-        <path color='#bebebe' d='M412-58l-6 6h-4v10h4l6 6zm5.512 4.699l-2.201 1.587c.978 1.326 1.587 2.943 1.587 4.71 0 1.741-.583 3.344-1.536 4.659l2.201 1.638a10.693 10.693 0 0 0 2.048-6.297c0-2.355-.803-4.527-2.099-6.297z' fill='#666' overflow='visible' style='marker:none'/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#232629;
+      }
+      </style>
+  </defs>
+    <path
+       style="fill:currentColor;fill-opacity:1;stroke:none"
+       d="M 10.988281 3 L 6 7.9902344 L 6 8 L 6 9 L 6 13 L 6 14 L 6 14.009766 L 10.988281 19 L 12 19 L 12 18.597656 L 12 3.4023438 L 12 3 L 10.988281 3 z M 3 8 L 3 9 L 3 13 L 3 14 L 5 14 L 5 13 L 5 9 L 5 8 L 3 8 z "
+       id="path4226" 
+          class="ColorScheme-Text"/>
+    <path
+       style="fill:currentColor;fill-opacity:0.25;stroke:none"
+       d="M 13.865234 3.5371094 L 13.621094 4.5136719 A 7 7 0 0 1 18 11 A 7 7 0 0 1 13.619141 17.478516 L 13.863281 18.453125 A 8 8 0 0 0 19 11 A 8 8 0 0 0 13.865234 3.5371094 z M 14.324219 7.28125 L 13.785156 8.1425781 A 4 4 0 0 1 15 11 A 4 4 0 0 1 13.789062 13.861328 L 14.328125 14.724609 A 5 5 0 0 0 16 11 A 5 5 0 0 0 14.324219 7.28125 z "
+       id="path4183" 
+          class="ColorScheme-Text"/>
 </svg>
